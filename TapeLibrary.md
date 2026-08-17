@@ -1,3 +1,24 @@
+### Hardware Specifications & Device Paths (Updated)
+
+**Host Server:** ``
+**Storage Controller:** IBM ServeRAID M5210
+
+**The Tape Library (The Robotic Arm / Medium Changer)**
+
+* **Make & Model:** **FUJITSU ETERNUS LT S2**
+* **SCSI Path:** `/dev/sg6` (Also mapped as `/dev/sch0`)
+* **Total Drives:** 1
+* **Total Tape Slots:** 8
+* *Note: This is the chassis that handles the mechanical movement of the tapes.*
+
+**The Tape Drive (The Reader/Writer)**
+
+* **Make & Model:** **IBM ULTRIUM-HH6** (Half-Height LTO-6)
+* **SCSI Path:** `/dev/sg5` (This is the control path, but data is written to `/dev/nst0`)
+* **Data Paths:** `/dev/nst0` (Non-rewinding) / `/dev/st0` (Rewinding)
+* **Drive Assignment:** Drive 0
+* *Note: This is the actual magnetic drive that reads/writes the LTO-6 tapes.*
+
 ### 1. Checking System & Device Status
 
 **Check the tape library (robotic arm & slots) status:**
