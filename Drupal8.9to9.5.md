@@ -1,5 +1,7 @@
 # Drupal Upgrade Guide: 8.9 → 9.5
 
+Related notes: [Git and Drupal workflow](GitBasics.md) · [Drupal interview scenarios](drupalinterview.md)
+
 
 ---
 

@@ -1,4 +1,8 @@
-# 🚀 1. Drupal Modern Setup (Foundation)
+# Git Basics and Drupal Project Workflow
+
+Related notes: [Drupal 8.9 to 9.5 upgrade](Drupal8.9to9.5.md) · [Drupal CSV imports](Importing%20CSV.md) · [Drupal interview scenarios](drupalinterview.md)
+
+## 1. Drupal Modern Setup (Foundation)
 
 * Drupal installed using **Composer**
 * Project structure:
@@ -20,7 +24,7 @@ testdev/
 
 ---
 
-# 🧠 2. What is Git?
+## 2. What Is Git?
 
 Git = Version Control System
 
@@ -32,7 +36,7 @@ Git = Version Control System
 
 ---
 
-# ⚙️ 3. Git Basic Setup
+## 3. Git Basic Setup
 
 ### First-time config:
 
@@ -423,9 +427,6 @@ git push -u origin main --force
 ```
 
 👉 This replaces incorrect structure on GitHub
-
-
-
 
 
 

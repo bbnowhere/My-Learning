@@ -1,4 +1,6 @@
-**Postfix troubleshooting and admin commands**
+# Postfix Troubleshooting and Administration Commands
+
+Related note: [Why Postfix sent old emails](Understanding%20Why%20Postfix%20Sent%20Old%20Emails.md)
 
 ## 🧩 **1. Check Postfix Service & Basic Status**
 

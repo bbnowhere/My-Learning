@@ -1,4 +1,8 @@
-If you're using **GAM 7.44.03**, here are some useful day-to-day commands for Google Workspace administration.
+# Google Workspace GAM Commands
+
+These are day-to-day commands for Google Workspace administration with **GAM 7.44.03**.
+
+Related note: [GAM commands for Google Workspace](gamcommands.md), which contains substantially overlapping commands and its source links.
 
 **Official documentation:**
 [GAM Wiki](https://github.com/GAM-team/GAM/wiki?utm_source=chatgpt.com)
@@ -331,3 +335,4 @@ gam print admins
 
 ```bash
 gam print groups members managers owners countsonly totalcount
+```

@@ -1,5 +1,7 @@
 ## **1. MAC Address Table (Layer 2)**
 
+Related notes: [Aruba switch commands](ArubaCheatSheet.md) · [BGP review](BGP%20Review.md)
+
 ### What you observed:
 
 * Most MAC addresses are on **port 1/A1**, indicating:

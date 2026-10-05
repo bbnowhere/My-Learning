@@ -1,4 +1,6 @@
-## 🧾 **Notes: Understanding Why Postfix Sent Old Emails**
+# Understanding Why Postfix Sent Old Emails
+
+Related note: [Postfix troubleshooting and administration commands](Postfix-Commands.md)
 
 **Date:** October 7, 2025
 **System:** `pubweb3`

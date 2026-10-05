@@ -1,5 +1,7 @@
 
-## 1. Virtualization: Hypervisors Compared
+# Virtualization: What Is ESXi?
+
+## 1. Hypervisors Compared
 A hypervisor is the "manager" that lets you run multiple Virtual Machines (VMs) on one physical computer. [4, 5] 
 
 | Feature [4, 6, 7, 8, 9, 10, 11, 12, 13] | Type 1 (Bare-Metal) | Type 2 (Hosted) |

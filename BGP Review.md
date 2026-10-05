@@ -1,5 +1,7 @@
 # 🔔 **1. Understanding the BGP Notification You Received**
 
+Related notes: [Aruba switch commands](ArubaCheatSheet.md) · [VLAN 2002 device tracing](vlan2002_summary.md)
+
 ### **BGP Neighbors Summary**
 
 | Label    | Neighbor IP   | AS    | State       | Uptime | Status      |

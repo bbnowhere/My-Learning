@@ -1,5 +1,7 @@
 # 📘 Aruba Switch – VLAN, MAC, ARP & Port Mapping Cheat Sheet
 
+Related notes: [VLAN 2002 device tracing](vlan2002_summary.md) · [BGP review](BGP%20Review.md)
+
 ## **1. Basic Switch Info**
 
 ```bash
@@ -194,4 +196,3 @@ write memory
 3. `show mac-address vlan 2002` → find port
 4. `show interfaces <port>` → get port details
 5. (Optional) `show lldp info remote` → identify connected device
-

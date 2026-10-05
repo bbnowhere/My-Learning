@@ -1,5 +1,7 @@
 # Mock Interview – Tricky Scenarios
 
+Related notes: [Git and Drupal workflow](GitBasics.md) · [Drupal upgrade guide](Drupal8.9to9.5.md)
+
 ## ⚡ Scenario 1: Works in Dev, Breaks in Prod
 
 **Question:**

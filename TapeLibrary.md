@@ -1,4 +1,6 @@
-### Hardware Specifications & Device Paths (Updated)
+# Tape Library: Hardware, Device Paths, and Operations
+
+## Hardware Specifications and Device Paths
 
 **Host Server:** ``
 **Storage Controller:** IBM ServeRAID M5210

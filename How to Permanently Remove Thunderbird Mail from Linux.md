@@ -11,7 +11,7 @@ Run the following to check if Thunderbird is installed via Snap or APT/DNF:
 ```bash
 snap list | grep thunderbird
 which thunderbird
-````
+```
 
 ---
 

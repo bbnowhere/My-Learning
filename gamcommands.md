@@ -1,4 +1,8 @@
-If you're using **GAM 7.44.03**, here are some useful day-to-day commands for Google Workspace administration.
+# GAM Commands for Google Workspace
+
+These are day-to-day commands for Google Workspace administration with **GAM 7.44.03**.
+
+Related note: [Google Workspace GAM commands](Google%20Workspace%20GAM%20commands.md), which contains substantially overlapping commands.
 
 **Official documentation:**
 [GAM Wiki](https://github.com/GAM-team/GAM/wiki?utm_source=chatgpt.com)

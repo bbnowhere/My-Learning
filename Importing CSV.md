@@ -1,5 +1,7 @@
 ## 🧭 Notes: What I Learned from Importing CSV into Drupal via CSV
 
+Related notes: [Git and Drupal workflow](GitBasics.md) · [Drupal upgrade guide](Drupal8.9to9.5.md)
+
 ### 🧩 1. **CSV Structure Must Match Script Exactly**
 
 * The `array_combine($header, $row)` function pairs each header column with its corresponding value.
@@ -177,4 +179,3 @@ awk -F',' '{if (NF != 16) print "Line " NR " has " NF " fields"}' Job_Listings_F
 * Replace **16** with the correct number of columns in your header.
 
 ---
-
